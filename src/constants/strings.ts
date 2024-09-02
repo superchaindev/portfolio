@@ -1,30 +1,30 @@
 class Strings {
   static telegram = "Telegram";
-  static telegramLink = "https://telegram.me/nixrajput";
-  static telegramUsername = "nixrajput";
+  static telegramLink = "https://telegram.me/superchaindev";
+  static telegramUsername = "superchaindev";
 
   static github = "GitHub";
-  static githubLink = "https://www.github.com/nixrajput";
-  static githubUsername = "nixrajput";
+  static githubLink = "https://www.github.com/superchaindev";
+  static githubUsername = "superchaindev";
 
   static linkedIn = "LinkedIn";
-  static linkedInLink = "https://www.linkedin.com/in/nixrajput";
-  static linkedInUsername = "nixrajput";
+  static linkedInLink = "https://www.linkedin.com/in/superchaindev";
+  static linkedInUsername = "superchaindev";
 
   static instagram = "Instagram";
-  static instagramLink = "https://www.instagram.com/nixrajput";
-  static instagramUsername = "nixrajput";
+  static instagramLink = "https://www.instagram.com/superchaindev";
+  static instagramUsername = "superchaindev";
 
   static twitter = "Twitter";
-  static twitterLink = "https://www.twitter.com/nixrajput07";
-  static twitterUsername = "nixrajput07";
+  static twitterLink = "https://www.twitter.com/superchaindev07";
+  static twitterUsername = "superchaindev07";
 
   static email = "Email";
-  static primaryEmailLink = "mailto:nkr.nikhil.nkr@gmail.com";
-  static primaryEmail = "nkr.nikhil.nkr@gmail.com";
+  static primaryEmailLink = "mailto:super.chain.dev@gmail.com";
+  static primaryEmail = "super.chain.dev@gmail.com";
 
-  static fullName = "Nikhil Rajput";
-  static shortName = "nixrajput";
+  static fullName = "Darren Picket";
+  static shortName = "superchaindev";
 }
 
 export default Strings;

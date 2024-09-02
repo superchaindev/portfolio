@@ -156,7 +156,7 @@ Thank you for considering sponsoring my work!
 [![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
 [![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
 [![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/super.chain.dev@gmail.com-EFF7F6?logo=Gmail&link=mailto:super.chain.dev@gmail.com)][gmail]
 
 ## Activities
 
@@ -167,7 +167,7 @@ Thank you for considering sponsoring my work!
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://linkedin.com/in/nixrajput
 [telegram]: https://telegram.me/nixrajput
-[gmail]: mailto:nkr.nikhil.nkr@gmail.com
+[gmail]: mailto:super.chain.dev@gmail.com
 
 [repo]: https://github.com/nixrajput/portfolio-nextjs
 [issues]: https://github.com/nixrajput/portfolio-nextjs/issues

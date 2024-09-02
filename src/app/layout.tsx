@@ -26,9 +26,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nikhil Rajput",
+  title: "Darren Picket",
   description:
-    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Darren Picket is a BlockChain developer and Full-Stack engineer from Singapore, skilled in Smart Contracts, Ethereum, Solana, dApp, and Node.js, Python & React.js, Nxt.js,  E-Commerce website building.",
   robots: {
     index: true,
     follow: true,
@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     },
   ],
   keywords: [
-    "nikhil rajput",
+    "Darren Picket",
     "nikhil",
-    "nixrajput",
+    "superchaindev",
     "nikhil-rajput",
     "rajput nikhil",
     "founder of nixlab",
     "nixlab founder",
     "full stack developer",
     "indian developer",
-    "nixrajput github",
+    "superchaindev github",
   ],
 };
 
